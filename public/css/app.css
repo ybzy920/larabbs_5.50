@@ -8929,6 +8929,24 @@ body {
   line-height: 38px;
 }
 
+.topic-reply hr {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.topic-reply a {
+  color: inherit;
+}
+
+.topic-reply .meta {
+  font-size: .9em;
+  color: #b3b3b3;
+}
+
+.topic-reply .reply-content {
+  margin: 6px 0;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
