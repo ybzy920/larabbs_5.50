@@ -8947,6 +8947,18 @@ body {
   margin: 6px 0;
 }
 
+.notifications-badge {
+  margin-top: -1;
+}
+
+.notifications-badge .badge-fade {
+  background-color: #EBE8E8;
+}
+
+.notifications-badge .badge-hint {
+  background-color: #d15b47 !important;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
